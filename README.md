@@ -5,7 +5,9 @@
 `🌤️ Morning Person` · `🧠 INFP` · `🏃‍♀️ Running` 
 
 </div>
+
 ---
+
 <div align="center">
 
 ### 📂 Projects
