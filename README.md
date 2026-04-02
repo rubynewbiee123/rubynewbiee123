@@ -31,12 +31,6 @@
 
 ---
 
-<div align="center">
-
----
-
-![Visitor](https://komarev.com/ghpvc/?username=rubynewbiee123&color=C4A882&style=flat-square&label=visitors)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6CA&height=100&section=footer"/>
 
 </div>
