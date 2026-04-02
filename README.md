@@ -2,7 +2,7 @@
 
 <div align="center">
 
-`🌤️ Morning Person` · `🧠 INFP` · `🏃‍♀️ Running` · `🍰 Dessert Lover`
+`🌤️ Morning Person` · `🧠 INFP` · `🏃‍♀️ Running` 
 
 </div>
 
