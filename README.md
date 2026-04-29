@@ -2,7 +2,7 @@
 
 <div align="center">
   
-`🦉 Owl type Person` · `🧠 INFP` · `🏃‍♀️ Running` 
+`🦉 Owl type Person` · `🧠 INFP` · `🎥 Watching movie` 
 
 </div>
 
