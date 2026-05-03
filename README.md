@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F5E6CA&height=150&section=header)
 
 <div align="center">
-  
- `🧠 INFP` 
 
 </div>
 
